@@ -1,6 +1,6 @@
 # Criando um pipeline com CodePipeline, Github e S3.
 
-[Tutorial: https://www.youtube.com/watch?v=biYVW1TMYAU](https://www.youtube.com/watch?v=biYVW1TMYAU)
+[AWS Project: Build a Game with a Continuous Deployment Pipeline from GitHub to S3 | AWS Tutorial](https://www.youtube.com/watch?v=biYVW1TMYAU)
 
 ##  Fazer um fork do repositorio com o codigo de um jogo da memoria:
 - [Respositorio](https://github.com/tinytechnicaltutorials/codepipeline-s3-game)
